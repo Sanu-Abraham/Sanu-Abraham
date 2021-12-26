@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Sanu-Abraham
 - 👀 I’m interested in software development and AI and Machine Learning.
-- 🌱 I’m currently learning the programming language Java so that I could understand the basic languages.
+- 🌱 I’m currently learning python.

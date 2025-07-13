@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello there! I'm Sanu Abraham, a 17-year-old junior from Southern India with a deep passion for programming and technology. 💻✨
+Hello there! I'm Sanu Abraham, an 18-year-old junior from Southern India with a deep passion for programming and technology. 💻✨
 
 ## Interests
 

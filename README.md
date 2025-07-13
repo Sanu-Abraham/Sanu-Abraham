@@ -23,6 +23,6 @@ Currently, I'm focusing on expanding my knowledge in Python and diving deeper in
 
 I'm excited to connect with fellow developers, collaborate on exciting projects, and learn from the community. Feel free to reach out to me through the following channel:
 
-- Email: [sanuabraham.user@gmails.com](mailto:sanuabraham.user@gmails.com)
+- Email: [sanuabraham.official@gmail.com](mailto:sanuabraham.official@gmail.com)
 
 Looking forward to the amazing coding adventures ahead! 🚀✨
